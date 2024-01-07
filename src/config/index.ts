@@ -2,7 +2,7 @@ export const PRODUCT_CATEGORIES = [
     {
         label: "UI Kits",
         value: "ui_kits" as const,
-        feature: [
+        featured: [
             {
                 name: "Editor picks",
                 href: "#",
@@ -23,7 +23,7 @@ export const PRODUCT_CATEGORIES = [
     {
         label: "Icons",
         value: "icons" as const,
-        feature: [
+        featured: [
             {
                 name: "Favorite Icon picks",
                 href: "#",
